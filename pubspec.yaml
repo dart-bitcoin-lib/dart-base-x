@@ -1,0 +1,14 @@
+name: dart_base_x
+description: Fast base encoding / decoding of any given alphabet using bitcoin style leading zero compression.
+version: 1.0.0
+homepage: https://github.com/dart-bitcoin-lib/dart-base-x
+repository: https://github.com/dart-bitcoin-lib/dart-base-x
+issue_tracker: https://github.com/dart-bitcoin-lib/dart-base-x/issues
+
+environment:
+  sdk: '>=2.14.0 <3.0.0'
+
+dev_dependencies:
+  hex: ^0.2.0
+  lints: ^1.0.0
+  test: ^1.16.0
